@@ -5,4 +5,5 @@
 - Smooth scrolling.
 - Contains an elegant theme.
 
-![preview img](/Homepage.png)
+![preview img](/Overview1.png)
+![preview img](/Overview.png)
